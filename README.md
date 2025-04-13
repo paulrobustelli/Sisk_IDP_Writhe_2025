@@ -13,9 +13,16 @@ INSERT ARCHIVE submission
 
 ---
 
-# Results
+# Results - Trajectory Analysis
 
-Demonstrations of the code to reproduce (or load and visualive) results from the manscript are presented via jupyter notebooks 👉 [results](./results/). 
+- Demonstrations of the code to reproduce (or load and visualive) trajectory analysis and MSM results from the manscript are presented via jupyter notebooks 👉 [traj_analysis_results](./traj_analysis_results/). 
+
+# Results - Generative Modeling
+
+- Analysis of the samples generated from score-based DDPMs using the PaiNN and 'Writhe-PaiNN' architectures 
+
+
+
 
 # Data
 
