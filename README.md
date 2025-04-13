@@ -1,6 +1,6 @@
 
 
-##### Repository accompanying the paper:
+### Repository accompanying the paper:
 
 'Characterizing the kinetic and structural ensembles of intrinsically disordered proteins using writhe' By Thomas Sisk, Simon Olsson and Paul Robustelli.
 
@@ -13,16 +13,18 @@ INSERT ARCHIVE submission
 
 ---
 
-# Results - Trajectory Analysis
+### Results
 
-- Demonstrations of the code to reproduce (or load and visualive) trajectory analysis and MSM results from the manscript are presented via jupyter notebooks 👉 [traj_analysis_results](./traj_analysis_results/). 
+  - ##### Trajectory Analysis and Dynamic Modeling 
 
-# Results - Generative Modeling
+    - Demonstrations of the code to reproduce (or load and visualive) trajectory analysis and MSM results from the manscript are presented via jupyter notebooks 👉 [traj_analysis_results](./traj_analysis_results/). 
 
-- Analysis of the samples generated from score-based DDPMs trained using the PaiNN and 'Writhe-PaiNN' architectures and scripts to train and sample either model 👉 [deep_generative_models](./deep_generative_models/).
+  - ##### Generative Modeling
+
+    - Analysis of the samples generated from score-based DDPMs trained using the PaiNN and 'Writhe-PaiNN' architectures and scripts to train and sample either model 👉 [deep_generative_models](./deep_generative_models/).
 
 
-
+---
 
 # Data
 
@@ -33,12 +35,15 @@ The raw data pertaining to our results is available at: LINK TO DATA REPOSITORY
     - Kmeans clusters estimated over a range of parameters.
     - MSM results for all 6 systems corresponding to hyperparameters scanned in the paper.
 
-# Software
+# Software - ```writhe_tools```
 
-Accompanying this project is a python software package hosted on the Python Package Index, PyPI : https://pypi.org/project/writhe-tools/.
+  - Accompanying this project is an open-source python software package hosted and archived on the Python Package Index, PyPI : https://pypi.org/project/writhe-tools/
 
   - The package can be installed via:
 
 ```bash
 pip install writhe-tools
+```
+
+  - Tutorial on how to use through example analysis of ACTR to reproduce results of the paper 👉 [traj_analysis_results](./traj_analysis_results/ACTR_example.ipynb)
 ```
