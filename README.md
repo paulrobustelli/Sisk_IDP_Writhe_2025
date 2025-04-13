@@ -13,16 +13,24 @@ INSERT ARCHIVE submission
 
 ---
 
-We overview the code to reproduce the results from the manscript in jupyter notebooks, which can be found in the results folder. 
+# Results
 
+Demonstrations of the code to reproduce (or load and visualive) results from the manscript are presented via jupyter notebooks 👉 [results](./results/). 
+
+# Data
 
 The raw data pertaining to our results is available at: LINK TO DATA REPOSITORY
+  - The data archive includes:
+    - precomputed writhe features over segment lengths 1 to 9.
+    - tCCA decompositions and VAMP2 scores for all writhe datasets considered in the paper.
+    - Kmeans clusters estimated over a range of parameters.
+    - MSM results for all 6 systems corresponding to hyperparameters scanned in the paper.
 
-This includes precomputed writhe features, tCCA decompositions, Kmeans clusters estimated over a range of parameters, MSM results for all 6 systems.
+# Software
 
-Accompanying this project is a python software package distibuted hosted on Python Package Index, PyPI : https://pypi.org/project/writhe-tools/.
+Accompanying this project is a python software package hosted on the Python Package Index, PyPI : https://pypi.org/project/writhe-tools/.
 
-The package can be installed via:
+  - The package can be installed via:
 
 ```bash
 pip install writhe-tools
