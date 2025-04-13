@@ -45,5 +45,5 @@ The raw data pertaining to our results is available at: LINK TO DATA REPOSITORY
 pip install writhe-tools
 ```
 
-  - Tutorial on how to use through example analysis of ACTR to reproduce results of the paper 👉 [traj_analysis_results](./traj_analysis_results/ACTR_example.ipynb)
+  - Tutorial on how to use ```writhe_tools``` and the algorithm used to compute the writhe is demonstrated through example analysis of ACTR to reproduce results of the paper 👉 [traj_analysis_results](./traj_analysis_results/ACTR_example.ipynb)
 ```
