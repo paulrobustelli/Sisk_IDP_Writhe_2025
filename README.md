@@ -46,4 +46,5 @@ pip install writhe-tools
 ```
 
   - Tutorial on how to use ```writhe_tools``` and the algorithm used to compute the writhe demonstrated through example analysis of ACTR 👉 [traj_analysis_results](./traj_analysis_results/ACTR_example.ipynb)
-```
+
+  - The ```writhe_tools``` package will be actively maintained at https://github.com/tommysisk/writhe_tools and new releases will be distributed on PyPI until further notice. Please direct all purely package related inquires accordingly. 
