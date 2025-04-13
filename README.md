@@ -11,6 +11,7 @@ INSERT ARCHIVE submission
   <img src="./images/writhe_asyn.png" width="410"/>
 </p>
 
+---
 
 We overview the code to reproduce the results from the manscript in jupyter notebooks, which can be found in the results folder. 
 
