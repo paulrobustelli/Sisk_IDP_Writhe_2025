@@ -19,7 +19,7 @@ INSERT ARCHIVE submission
 
 # Results - Generative Modeling
 
-- Analysis of the samples generated from score-based DDPMs using the PaiNN and 'Writhe-PaiNN' architectures 
+- Analysis of the samples generated from score-based DDPMs trained using the PaiNN and 'Writhe-PaiNN' architectures and scripts to train and sample either model 👉 [deep_generative_models](./deep_generative_models/).
 
 
 
