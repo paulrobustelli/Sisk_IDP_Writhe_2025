@@ -30,7 +30,7 @@ INSERT ARCHIVE submission
 
 The raw data pertaining to our results is available at: LINK TO DATA REPOSITORY
   - The data archive includes:
-    - precomputed writhe features over segment lengths 1 to 9.
+    - precomputed writhe features for segment lengths 1 to 5.
     - tCCA decompositions and VAMP2 scores for all writhe datasets considered in the paper.
     - Kmeans clusters estimated over a range of parameters.
     - MSM results for all 6 systems corresponding to hyperparameters scanned in the paper.
