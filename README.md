@@ -4,7 +4,7 @@
 
 'Characterizing the kinetic and structural ensembles of intrinsically disordered proteins using writhe' By Thomas Sisk, Simon Olsson and Paul Robustelli.
 
-INSERT ARCHIVE submission
+preprint: https://www.biorxiv.org/content/10.1101/2025.04.26.650781v1
 
 <p align="center">
   <img src="./images/visualize_writhe.png" width="410"/>
